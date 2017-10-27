@@ -6,4 +6,5 @@ exports:
     header-dirs: [ glfw/include ]
     modules :
         glfw3: . 
+        glfw3sharedlib: .
 
